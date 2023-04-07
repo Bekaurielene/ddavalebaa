@@ -1,0 +1,111 @@
+*
+ {
+    box-sizing: border-box;
+}
+.body{
+    padding: 0;
+    margin: 0;
+}
+
+.title{
+    width: 100%;
+    padding: 20px 20px 20px 80px;
+    }
+.meniu{
+    width: 100%;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+span{
+    margin: 20px;
+}
+.teqsti{
+    color: lightgray;
+}
+.row1{
+    width: 100%;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+.row2{
+    width: 100%;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+.card{
+    background-color: #FAF4EF;
+    border-bottom-left-radius: 60px;
+    height: 423px;
+    width: 316px;
+    margin: 40px;
+    
+    
+}
+.chair{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+
+}
+.lamp{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+
+}
+.mol{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+.all{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+.ir{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+.ch{
+    width: 100%;
+    height: 100%;
+    
+}
+.text{
+    width: 100%;
+    padding-left: 20px;
+    
+}
+img{
+    margin-top: 70px ;
+
+}
+.surati{
+    margin-top:70px ;
+
+}
+.poto{
+ margin-top:40px ;
+}
+.img2{
+    margin-top: 30px ;
+
+}
+.img3{
+    margin-top:90px ;
+
+}
+.img4{
+    margin-top: 90px ;
+
+}
